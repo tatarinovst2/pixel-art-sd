@@ -2,7 +2,7 @@
 
 ## Overview
 
-PixelDiffusion aims to adapt the StableDiffusion model to create high-quality pixel art by fine-tuning it on specialized pixel art datasets.
+This project aims to adapt the StableDiffusion model to create high-quality pixel art by fine-tuning it on specialized pixel art datasets.
 
 ## Roadmap
 
