@@ -11,7 +11,7 @@ This project aims to adapt the StableDiffusion model to create high-quality pixe
     - **Additional Datasets:** Source images of varying sizes and styles to enhance model versatility.
 
 2. **Preprocess Data**
-    - **Image Resizing:** Upsize images (for 16x16 pixel art 128x128 image would be better (maybe even 256x256)) to maintain pixel integrity.
+    - **Image Resizing:** Upsize images (for example, a 16x16 pixel art would become a 128x128 image (maybe 256x256?)) to maintain pixel integrity.
 
 3. **Train StableDiffusion**
     - **LoRa:** Use LoRa for optimal fine-tuning.
